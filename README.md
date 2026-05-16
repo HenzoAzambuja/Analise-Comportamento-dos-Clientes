@@ -36,7 +36,7 @@ O problema de negócio e os entregáveis incluem preparação de dados em Python
 ## Estrutura do Projeto
 
 ```text
-analise-comportamento-compras-clientes/
+analise-comportamento-dos-clientes/
 │
 ├── Dashboard-Apresentação/
 │   ├── Analise_Comportamento_Clientes.pptx                 
